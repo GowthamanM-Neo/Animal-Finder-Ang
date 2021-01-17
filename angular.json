@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "Animal-Finder-Ang"
+  "defaultProject": "Animal-Finder-Ang",
+  "cli": {
+    "analytics": "36c06363-0034-49c9-b451-5de87a88866c"
+  }
 }
